@@ -1,0 +1,7 @@
+__pycache__
+.idea
+MNIST.ipynb
+.ipynb_checkpoints
+.idea/
+.ipynb_checkpoints/
+
