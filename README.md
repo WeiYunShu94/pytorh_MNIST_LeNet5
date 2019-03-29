@@ -1,0 +1,2 @@
+# pytorh_MNIST_LeNet5
+用LeNet5网络去识别MNIST数据集
